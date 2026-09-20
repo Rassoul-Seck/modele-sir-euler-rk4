@@ -38,7 +38,7 @@ Trajectoires (RK4) :
 
 Erreur en fonction du pas h (échelle log-log) :
 
-![Convergence](results/convergence.png)
+![Convergence](convergence.png)
 
 Ordres de convergence observés : ≈ 0.96 pour Euler et ≈ 3.84 pour RK4, ce qui
 est cohérent avec la théorie (1 et 4).
