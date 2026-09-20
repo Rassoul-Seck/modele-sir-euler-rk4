@@ -34,7 +34,7 @@ Paramètres utilisés : N = 1000, 1 infecté au départ, β = 0.3, γ = 0.1 (R0 
 
 Trajectoires (RK4) :
 
-![Trajectoires](results/trajectoires.png)
+![Trajectoires](trajectoires.png)
 
 Erreur en fonction du pas h (échelle log-log) :
 
