@@ -56,7 +56,7 @@ Les scripts se lancent depuis la racine du projet (les figures sont écrites dan
 
 ### 1. Trajectoires SIR (N = 1000, β = 0.3, γ = 0.1, R0 = 3)
 
-![Trajectoires](results/trajectoires.png)
+![Trajectoires](trajectoires.png)
 
 ### 2. Convergence des méthodes
 
