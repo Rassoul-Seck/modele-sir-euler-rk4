@@ -76,7 +76,7 @@ cette différence de condition initiale.
 
 ### 4. Effet de la durée d'incubation
 
-![Effet de l'incubation](results/effet_incubation.png)
+![Effet de l'incubation](effet_incubation.png)
 
 | σ | Incubation | Pic (infectés) | Jour du pic |
 |---|-----------|----------------|-------------|
