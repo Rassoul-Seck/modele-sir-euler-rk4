@@ -60,7 +60,7 @@ Les scripts se lancent depuis la racine du projet (les figures sont écrites dan
 
 ### 2. Convergence des méthodes
 
-![Convergence](results/convergence.png)
+![Convergence](convergence.png)
 
 Ordres observés : ≈ 0.96 pour Euler et ≈ 3.84 pour RK4, cohérents avec la
 théorie (1 et 4).
