@@ -67,7 +67,7 @@ théorie (1 et 4).
 
 ### 3. SIR contre SEIR (mêmes β et γ, incubation moyenne de 5 jours)
 
-![SIR vs SEIR](results/sir_vs_seir.png)
+![SIR vs SEIR](sir_vs_seir.png)
 
 L'incubation retarde et aplatit l'épidémie : le pic passe de 301 infectés (jour
 38) à 197 infectés (jour 78). Attention : la simulation SIR démarre avec
