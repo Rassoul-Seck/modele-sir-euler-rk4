@@ -90,7 +90,7 @@ vers 0, on retrouve le SIR.
 
 ### 5. Pic épidémique en fonction de R0 (SIR)
 
-![Pic vs R0](results/pic_vs_R0.png)
+![Pic vs R0](pic_vs_R0.png)
 
 Le pic simulé est comparé à la formule issue de l'intégrale première du SIR
 (écart maximal de 0.01 individu sur N = 1000).
