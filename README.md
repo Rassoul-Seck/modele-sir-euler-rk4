@@ -49,8 +49,7 @@ Population totale constante N.
     python src/main.py
     python src/analyse_seir.py
 
-Les scripts se lancent depuis la racine du projet (les figures sont écrites dans
-`results/`).
+Les scripts se lancent depuis la racine du projet .
 
 ## Résultats
 
